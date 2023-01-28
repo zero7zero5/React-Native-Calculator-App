@@ -3,10 +3,11 @@
 <p id="description">A Simple calculator mobile app made with React Native and Expo</p>
 
 <h2>Project Screenshots:</h2>
+<center>
 <img src="https://i.ibb.co/C1KtX3W/Screenshot-2023-01-28-20-09-10-611-com-saberbasha-calculator.jpg" alt="project-screenshot"  height="400/">
 
 <img src="https://i.ibb.co/rkwxDqw/Screenshot-2023-01-28-20-09-13-918-com-saberbasha-calculator.jpg" alt="project-screenshot"  height="400/">
-
+<center/>
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Install Expo CLI</p>
