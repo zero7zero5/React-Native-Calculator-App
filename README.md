@@ -3,10 +3,9 @@
 <p id="description">A Simple calculator mobile app made with React Native and Expo</p>
 
 <h2>Project Screenshots:</h2>
+<img src="https://i.ibb.co/C1KtX3W/Screenshot-2023-01-28-20-09-10-611-com-saberbasha-calculator.jpg" alt="project-screenshot"  height="200/">
 
-<img src="https://i.ibb.co/C1KtX3W/Screenshot-2023-01-28-20-09-10-611-com-saberbasha-calculator.jpg" alt="project-screenshot"/>
-
-<img src="https://i.ibb.co/rkwxDqw/Screenshot-2023-01-28-20-09-13-918-com-saberbasha-calculator.jpg" alt="project-screenshot" />
+<img src="https://i.ibb.co/rkwxDqw/Screenshot-2023-01-28-20-09-13-918-com-saberbasha-calculator.jpg" alt="project-screenshot"  height="200/">
 
 <h2>🛠️ Installation Steps:</h2>
 
