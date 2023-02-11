@@ -29,7 +29,7 @@ npm i -g expo-cli
 <p>2. Clone this project</p>
 
 ```
-gh repo clone zero7zero5/React-Native-Calculator-App
+git clone zero7zero5/React-Native-Calculator-App
 ```
 
 <p>3. To run this project</p>
